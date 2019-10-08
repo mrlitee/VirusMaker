@@ -3,6 +3,7 @@ apt install ruby
 gem install lolcat
 apt install figlet
 yum install figlet
+termux-setup-storage
 clear
 figlet "VirusMaker" | lolcat ;
 sleep 2
