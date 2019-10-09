@@ -31,6 +31,7 @@ read -p "Dimana Anda Ingin Menyimpan :" Pilih ;
 clear
 
 echo "Mohon Tunggu Atuh ../\.." | lolcat ;
+echo
 rm -rf Android
 echo "<<----------             >  10%" | lolcat ;
 rm -rf data
